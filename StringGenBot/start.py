@@ -24,7 +24,7 @@ Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [🇷🇺⛦°╰𝐑֟֟𝐂╯°⛦ ➣🇵�
                     InlineKeyboardButton(text="🫧 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🫧", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("☂️ sᴜᴘᴘᴏʀᴛ ☂️", url="https://t.me/cherished_community"),
+                    InlineKeyboardButton("☂️ sᴜᴘᴘᴏʀᴛ ☂️", url="https://t.me/InsaneSupportChat"),
                     InlineKeyboardButton("⚠️ ᴏᴡɴᴇʀ ⚠️", user_id=OWNER_ID)
                 ]
             ]
