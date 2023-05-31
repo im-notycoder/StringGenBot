@@ -17,14 +17,14 @@ async def start(bot: Client, msg: Message):
 Tʜɪs ɪs {me2},
 Aɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
 
-Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [🇷🇺⛦°╰𝐑֟֟𝐂╯°⛦ ➣🇵ιყυʂԋ⏤͟͟⛦⃕͜🇮🇳](tg://user?id={OWNER_ID}) !""",
+Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [𝕻𝖗𝖔 𝖙𝖗𝖎𝖈𝖐𝖘](tg://user?id={OWNER_ID}) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(text="🫧 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🫧", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("☂️ sᴜᴘᴘᴏʀᴛ ☂️", url="https://t.me/InsaneSupportChat"),
+                    InlineKeyboardButton("☂️ sᴜᴘᴘᴏʀᴛ ☂️", url="https://t.me/Nxt_Bots"),
                     InlineKeyboardButton("⚠️ ᴏᴡɴᴇʀ ⚠️", user_id=OWNER_ID)
                 ]
             ]
